@@ -8,5 +8,5 @@ Detect mask v/s no-mask on faces in an image using a combination of a openCV bas
    
 ![Sample Google Colab session](screenshots/ColabScreenshot.PNG)
 
-Trained models for this example come from [Bayangmbe Moumno](https://github.com/bm777/humanface-mask-detector) based on a dataset created by [Prajna Bhandary](https://lnkd.in/fJTAP_D)
+Trained models for this example come from [Bayangmbe Moumno](https://github.com/bm777/humanface-mask-detector) based on a dataset of simulated masked-face images created using an innovative OpenCV pipeline based on face landmark detection, by [Prajna Bhandary](https://lnkd.in/fJTAP_D)
 
