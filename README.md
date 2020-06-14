@@ -6,5 +6,7 @@ Detect mask v/s no-mask on faces in an image using a combination of a openCV bas
    [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/menonpg/MultiFace_FaceMaskDetector/blob/master/MaskDetector.ipynb)
 3) The code outputs a "result.png" file with the detected faces and a green / red mask based on whether a mask is detected. 
    
-![History of training and validation stage](screenshots/ColabScreenshot.PNG)
+![Sample Google Colab session](screenshots/ColabScreenshot.PNG)
+
+Trained models for this example come from ![bm777](https://github.com/bm777/humanface-mask-detector)
 
