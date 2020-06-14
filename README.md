@@ -12,3 +12,5 @@ Trained models for this example come from [Bayangmbe Moumno](https://github.com/
 - with_mask: 690 images
 - without_mask: 686 images
 
+Read more about how to train your own model and work the face-landmark based mask simulator on [Adrian Rosebrock's](https://www.pyimagesearch.com/2020/05/04/covid-19-face-mask-detector-with-opencv-keras-tensorflow-and-deep-learning/) blog post.
+
